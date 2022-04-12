@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
   annotations:
-    getambassador.io/rolloutId: aae3f675-cd17-4851-aa25-70b2d858eeeb
+    getambassador.io/rolloutId: 60fdf739-c54f-45f7-b466-8593a8bb24a2
   creationTimestamp: null
   name: rollout-demo
   namespace: my-app
