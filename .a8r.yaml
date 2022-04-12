@@ -3,3 +3,7 @@ k8s_config:
   cluster_info:
     cluster_id: 545d62e7-dffa-5e8f-b131-316e2f3a8b36
     cluster_name: Jake's cluster
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 545d62e7-dffa-5e8f-b131-316e2f3a8b36
+    cluster_name: Jake's cluster
